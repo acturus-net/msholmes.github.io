@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Holmes - Resume</title>
-    <link>https://msholmes.bitbucket.io/resume/</link>
+    <link>https://acturus.net/</link>
     <description>Recent content on Mark Holmes - Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://msholmes.bitbucket.io/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://acturus.net/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
