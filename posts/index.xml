@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Agens</title>
-    <link>https://msholmes.bitbucket.io/posts/</link>
+    <link>https://acturus.net/posts/</link>
     <description>Recent content in Posts on Agens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 20:40:50 -0700</lastBuildDate>
     
-	<atom:link href="https://msholmes.bitbucket.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://acturus.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo Is Boss</title>
-      <link>https://msholmes.bitbucket.io/posts/hugo-is-boss/</link>
+      <link>https://acturus.net/posts/hugo-is-boss/</link>
       <pubDate>Sat, 25 Apr 2020 20:40:50 -0700</pubDate>
       
-      <guid>https://msholmes.bitbucket.io/posts/hugo-is-boss/</guid>
+      <guid>https://acturus.net/posts/hugo-is-boss/</guid>
       <description>No, I&amp;rsquo;m not talking about the fashion design company.
 https://gohugo.io/about/what-is-hugo/:
  Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
