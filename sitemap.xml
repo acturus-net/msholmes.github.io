@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://acturus.net/resume/categories/</loc>
+    <loc>https://acturus.net/</loc>
+    <lastmod>2020-04-25T20:40:50-07:00</lastmod>
   </url><url>
-    <loc>https://acturus.net/resume/</loc>
+    <loc>https://acturus.net/posts/hugo-is-boss/</loc>
+    <lastmod>2020-04-25T20:40:50-07:00</lastmod>
   </url><url>
-    <loc>https://acturus.net/resume/tags/</loc>
+    <loc>https://acturus.net/posts/</loc>
+    <lastmod>2020-04-25T20:40:50-07:00</lastmod>
+  </url><url>
+    <loc>https://acturus.net/categories/</loc>
+  </url><url>
+    <loc>https://acturus.net/tags/</loc>
   </url>
 </urlset>

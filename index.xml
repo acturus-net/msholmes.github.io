@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark Holmes - Resume</title>
-    <link>https://acturus.net/resume/</link>
-    <description>Recent content on Mark Holmes - Resume</description>
+    <title>Agens</title>
+    <link>https://acturus.net/</link>
+    <description>Recent content on Agens</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://acturus.net/resume/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 20:40:50 -0700</lastBuildDate><atom:link href="https://acturus.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Is Boss</title>
+      <link>https://acturus.net/posts/hugo-is-boss/</link>
+      <pubDate>Sat, 25 Apr 2020 20:40:50 -0700</pubDate>
+      
+      <guid>https://acturus.net/posts/hugo-is-boss/</guid>
+      <description>No, I&amp;rsquo;m not talking about the fashion design company.
+https://gohugo.io/about/what-is-hugo/:
+ Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
+ It certainly is fun! I used it to build this site. With a handful of commands and minor config, I was already writing content!
+Here&amp;rsquo;s what I did to get started, following https://gohugo.io/getting-started/quick-start/:
+hugo new site agens cd agens git init git submodule add https://github.</description>
+    </item>
+    
   </channel>
 </rss>
