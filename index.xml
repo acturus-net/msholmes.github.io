@@ -14,10 +14,10 @@
       
       <guid>https://acturus.net/posts/hugo-is-boss/</guid>
       <description>No, I&amp;rsquo;m not talking about the fashion design company.
-https://gohugo.io/about/what-is-hugo/:
+https://gohugo.io/about/what-is-hugo/ :
  Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
  It certainly is fun! I used it to build this site. With a handful of commands and minor config, I was already writing content!
-Here&amp;rsquo;s what I did to get started, following https://gohugo.io/getting-started/quick-start/:
+I followed https://gohugo.io/getting-started/quick-start/ and did the following to get started:
 hugo new site agens cd agens git init git submodule add https://github.</description>
     </item>
     
