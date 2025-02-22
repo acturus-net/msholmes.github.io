@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/mholmes/Documents/GitHub/ygc.site",
+	"sourceRoot": "/Users/mholmes/Documents/GitHub/coaching.site",
 	"sources": [
 		"themes/hugo-split-theme/assets/scss/split.scss",
 		"themes/hugo-split-theme/assets/scss/_normalize.scss",
