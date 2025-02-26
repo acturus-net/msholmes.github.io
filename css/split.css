@@ -2202,7 +2202,11 @@ a {
   flex: 1; }
 
 .content {
-  overflow: auto; }
+  overflow: auto;
+  color: #848D96; }
+
+.content a:hover {
+  color: #99e6ff; }
 
 .links {
   display: -webkit-box;
