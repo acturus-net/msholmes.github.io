@@ -2084,7 +2084,7 @@ a {
   display: block;
   max-height: 100vh;
   background-color: #0B1C2F;
-  font-family: Inter, sans-serif;
+  font-family: Lora, sans-serif;
   animation: fadein 2s; }
 
 .leftcontent {
@@ -2130,7 +2130,7 @@ a {
 
 .bio p {
   margin-bottom: 40px;
-  font-family: Lora, sans-serif;
+  font-family: Inter, sans-serif;
   color: #848D96;
   font-size: 21px;
   line-height: 140%; }
@@ -2144,7 +2144,7 @@ a {
   border-bottom: 1px solid #99e6ff; }
 
 .bio h1, .bio h2, .bio h3, .bio h4, .bio h5, .bio h6 {
-  font-family: Lora, sans-serif;
+  font-family: Inter, sans-serif;
   color: #848D96; }
 
 .bio ul, .bio ol, .bio pre {
@@ -2161,7 +2161,7 @@ a {
   text-transform: uppercase; }
 
 .list {
-  font-family: Lora, sans-serif;
+  font-family: Inter, sans-serif;
   color: #848D96;
   font-size: 16px;
   line-height: 160%; }
